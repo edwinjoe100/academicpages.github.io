@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ed.jpg"
   name             : "Edwin Joseph"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "London, United Kingdom"
+  employer         : "University of Surrey"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "edwin.joseph@surrey.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
